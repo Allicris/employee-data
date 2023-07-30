@@ -1,5 +1,9 @@
 # Employee Data Tracker
 
+## Description
+The user of this application can use it to view departments, roles and current employees. They can also add departments, roles and employee's and update existing employee's.
+When using this application the user will be prompted with questions and will be prompted to select from their choices or input new information depending on what they select. 
+
 ## User Story
 AS A business owner
 I WANT to be able to view and manage the departments, roles, and employees in my company
@@ -41,4 +45,9 @@ Majority of the success on this project was being able to set up my databases wi
 ![](./images/data1.jpg)
 ![](./images/data2.jpg)
 
+## Future Development
+I would like to edit the salaries in the future because based on what I have seen in the real world someone can stay in the same position for years and their salary could increase.
+
+## Credits
+I would like to give credit to my instructor Rommel and TA Ringo for teaching me how to use mySQL, my tutor Anothony for helping overcome some issues that I was encountering that involved merging data and Thomas Calle's repository and walk through video that I used to better understand the logic of piecing a project like this together. 
 
