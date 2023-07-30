@@ -35,7 +35,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 - Run npm start on the terminal to start your application.
 
 ## Video Link
-Application walkthrough:
+Application walkthrough: https://drive.google.com/file/d/1h41FhgXJ2eLC4cKLWnKABoRu12lVb_KS/view 
 
 ## Successes and Challenges
 Majority of the success on this project was being able to set up my databases with no issues. I found myself really enjoying mySQL and getting the foundation of the project going. I did have to do some research on Google to figure out what aliases are and how to implement them when I'm trying to combine data into one table. Another success was getting the functions view Departments, Roles and Employees to work, creating these functions and seeing them work the way they are supposed to with little trouble was very rewarding. A challenge I faced was creating the add a new role function because there was more data to find and input, I was getting stuck on selecting a department for the new role because I was getting a lot of undefined messages and eventually fixed this issue. Something that I also learned was that you have to pay attention to the input values that you have initially set up and making sure that you're entering the right format for that value. 
